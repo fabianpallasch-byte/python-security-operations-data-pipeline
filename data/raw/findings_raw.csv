@@ -1,0 +1,27 @@
+finding_id;department;severity;open_date;close_date;status;owner_team
+FND-2001;IT;Critical;06.01.2026;;Open;SOC
+FND-2002;Operations;High;10.01.2026;01.02.2026;Closed;Infrastructure
+FND-2003;Sales;Medium;14.01.2026;28.01.2026;Closed;GRC
+FND-2004;Finance;High;18.01.2026;;Open;Risk
+FND-2005;HR;Low;20.01.2026;19.01.2026;Closed;Compliance
+FND-2006;Information Technology;Critical;02.02.2026;;Open;SOC
+FND-2007;Ops;High;09.02.2026;;Open;Infrastructure
+FND-2008;Legal;Medium;15.02.2026;01.03.2026;Closed;GRC
+FND-2009;Marketing;Low;05.03.2026;;Open;Awareness
+FND-2010;Customer Support;High;08.03.2026;25.03.2026;Closed;SOC
+FND-2011;IT;Critical;03.04.2026;;Open;SOC
+FND-2012;Operations;Medium;11.04.2026;30.04.2026;Closed;Infrastructure
+FND-2013;Sales;High;02.05.2026;;Open;GRC
+FND-2014;Finance;Medium;12.05.2026;18.05.2026;Closed;Risk
+FND-2015;Operations;High;22.05.2026;;Open;
+FND-2015;Operations;High;22.05.2026;;Open;
+FND-2016;IT;High;01.06.2026;;Open;SOC
+FND-2017;Operations;Medium;04.06.2026;14.06.2026;Closed;Infrastructure
+FND-2018;Sales;Critical;05.06.2026;;Open;GRC
+FND-2019;Finance;Low;06.06.2026;08.06.2026;Closed;Risk
+FND-2020;HR;Medium;09.06.2026;;Open;Compliance
+FND-2021;Information Technology;High;12.06.2026;;Open;SOC
+FND-2022;Customer Support;Medium;15.06.2026;22.06.2026;Closed;Awareness
+FND-2023;Ops;Critical;18.06.2026;;Open;Infrastructure
+FND-2024;Marketing;Medium;20.06.2026;;Open;Awareness
+FND-2025;Legal;High;21.06.2026;27.06.2026;Closed;GRC

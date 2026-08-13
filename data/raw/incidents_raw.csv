@@ -1,1 +1,34 @@
-
+incident_id;created_date;resolved_date;department;severity;status;category;response_hours
+INC-1001;05.01.2026;07.01.2026;IT;High;Resolved;Malware;18
+INC-1002;08.01.2026;;Operations;Medium;Open;Access Issue;12
+INC-1003;11.01.2026;12.01.2026;Sales;Low;Resolved;Phishing;6
+INC-1004;15.01.2026;20.01.2026;Finance;Critical;Resolved;Data Loss;55
+INC-1005;18.01.2026;17.01.2026;HR;High;Resolved;Policy Violation;9
+INC-1006;01.02.2026;;IT;Critical;Open;Ransomware;40
+INC-1007;03.02.2026;05.02.2026;Information Technology;Medium;Resolved;System Outage;14
+INC-1008;10.02.2026;11.02.2026;Ops;High;Resolved;Patch Failure;10
+INC-1009;15.02.2026;;Legal;Low;Open;Unauthorized Access;4
+INC-1010;02.03.2026;09.03.2026;Customer Support;Medium;Resolved;Account Lockout;28
+INC-1011;10.03.2026;18.03.2026;Sales;High;Resolved;Phishing;36
+INC-1012;12.03.2026;;Marketing;Medium;In Progress;Suspicious Email;16
+INC-1013;01.04.2026;01.04.2026;Operations;Low;Resolved;Misconfiguration;2
+INC-1014;07.04.2026;;IT;Critical;Open;Data Exposure;48
+INC-1015;09.04.2026;14.04.2026;Finance;Medium;Resolved;Access Issue;20
+INC-1016;12.04.2026;16.04.2026;HR;Low;Resolved;Lost Device;11
+INC-1017;03.05.2026;;Operations;High;Open;Service Disruption;30
+INC-1018;08.05.2026;20.05.2026;Sales;Critical;Resolved;Business Email Compromise;72
+INC-1018;08.05.2026;20.05.2026;Sales;Critical;Resolved;Business Email Compromise;72
+INC-1019;11.05.2026;13.05.2026;IT;Medium;Resolved;VPN Issue;N/A
+INC-1020;02.06.2026;;Customer Support;Medium;Open;Password Reset;5
+INC-1021;04.06.2026;06.06.2026;Operations;Medium;Resolved;Phishing;15
+INC-1022;05.06.2026;;Sales;High;Open;Credential Theft;22
+INC-1023;07.06.2026;07.06.2026;IT;Low;resolved;Spam;1
+INC-1024;08.06.2026;12.06.2026;Finance;Medium;Resolved;Access Review;19
+INC-1025;10.06.2026;;Information Technology;Critical;In Progress;Privilege Escalation;44
+INC-1026;12.06.2026;19.06.2026;Ops;High;Resolved;Patch Failure;31
+INC-1027;14.06.2026;;Marketing;Medium;Open;Suspicious Email;8
+INC-1028;15.06.2026;16.06.2026;Customer Support;Low;Resolved;Password Reset;3
+INC-1029;16.06.2026;18.06.2026;Legal;Medium;Resolved;Policy Violation;7
+INC-1030;18.06.2026;;IT;Critical;Open;Data Exposure;52
+INC-1031;21.03.2026;24.03.2026;Operations;Medium;Resolved;System Outage;17
+INC-1032;25.03.2026;;HR;Low;Open;Lost Device;5
