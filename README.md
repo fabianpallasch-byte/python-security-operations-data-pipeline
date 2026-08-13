@@ -98,9 +98,9 @@ Zusätzlich werden folgende Ergebnisse erzeugt:
 - SQLite-Datenbank mit bereinigten Tabellen
 - SQL-Abfragen für Risiko- und KPI-Analysen
 - Data-Quality-Report
-- Management Summary mit priorisierten Risikobereichen
+- Data-Quality- und KPI-Reporting-Outputs als CSV-Dateien
 
-## Management-Reporting
+## Risikopriorisierung
 
 Die Managementauswertung verbindet mehrere Risikodimensionen:
 
