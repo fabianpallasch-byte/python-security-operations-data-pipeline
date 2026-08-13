@@ -1,0 +1,19 @@
+dataset,rule_name,affected_rows,description
+awareness,completion_rate_out_of_range,1,completion_rate is outside 0 to 1
+awareness,clicks_greater_than_emails_sent,0,clicks is greater than emails_sent
+awareness,department_not_in_master,0,department is not found in department master
+awareness,failures_greater_than_emails_sent,0,failures is greater than emails_sent
+findings,close_date_before_open_date,1,close_date is earlier than open_date
+findings,missing_owner_team,1,owner_team is missing
+findings,closed_status_missing_close_date,0,status is closed but close_date is missing
+findings,department_not_in_master,0,department is not found in department master
+findings,open_status_with_close_date,0,status is open but close_date is filled
+incidents,resolved_date_before_created_date,1,resolved_date is earlier than created_date
+incidents,department_not_in_master,0,department is not found in department master
+incidents,negative_response_hours,0,response_hours is negative
+incidents,open_status_with_resolved_date,0,status is open/in progress but resolved_date is filled
+incidents,resolved_status_missing_resolved_date,0,status is resolved but resolved_date is missing
+patch,assets_compliant_greater_than_assets_total,1,assets_compliant is greater than assets_total
+patch,compliance_rate_out_of_range,1,compliance_rate is outside 0 to 1
+patch,missing_compliance_rate,1,compliance_rate is missing
+patch,department_not_in_master,0,department is not found in department master

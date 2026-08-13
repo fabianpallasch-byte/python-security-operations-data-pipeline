@@ -1,0 +1,8 @@
+dataset,rule_name,incident_id,department,status,created_date,resolved_date,response_hours,finding_id,open_date,close_date,owner_team,severity,campaign_date,completion_rate,scan_date,assets_total,assets_compliant,compliance_rate
+incidents,resolved_date_before_created_date,INC-1005,HR,Resolved,2026-01-18,2026-01-17,9.0,,,,,,,,,,,
+findings,close_date_before_open_date,,HR,Closed,,,,FND-2005,2026-01-20,2026-01-19,Compliance,,,,,,,
+findings,missing_owner_team,,Operations,,,,,FND-2015,,,,High,,,,,,
+awareness,completion_rate_out_of_range,,Operations,,,,,,,,,,2026-06-30,1.02,,,,
+patch,assets_compliant_greater_than_assets_total,,Finance,,,,,,,,,,,,2026-06-15,98.0,101.0,
+patch,compliance_rate_out_of_range,,Finance,,,,,,,,,,,,2026-06-15,,,1.03
+patch,missing_compliance_rate,,HR,,,,,,,,,,,,2026-06-15,,,
