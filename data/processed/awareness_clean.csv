@@ -1,0 +1,31 @@
+department,campaign_date,emails_sent,clicks,failures,completion_rate
+Information Technology,2026-01-31,120,14,9,0.92
+Operations,2026-01-31,160,28,19,0.81
+Sales,2026-01-31,140,35,27,0.74
+Finance,2026-01-31,90,8,4,0.96
+HR,2026-01-31,70,6,3,0.98
+Legal,2026-01-31,50,3,1,0.97
+Marketing,2026-01-31,85,11,7,0.88
+Customer Support,2026-01-31,110,18,11,0.84
+Information Technology,2026-04-30,125,15,10,0.91
+Operations,2026-04-30,165,31,22,0.79
+Sales,2026-04-30,145,42,33,0.71
+Finance,2026-04-30,92,9,5,0.95
+HR,2026-04-30,72,5,2,
+Legal,2026-04-30,52,4,1,0.98
+Marketing,2026-04-30,88,13,9,0.86
+Customer Support,2026-04-30,112,20,12,0.83
+Information Technology,2026-06-30,130,16,11,0.9
+Operations,2026-06-30,170,29,24,1.02
+Sales,2026-06-30,150,39,44,0.69
+Finance,2026-06-30,95,7,3,0.97
+Information Technology,2026-05-31,128,17,12,0.91
+Operations,2026-05-31,168,30,21,0.8
+Sales,2026-05-31,148,38,29,0.72
+Finance,2026-05-31,94,8,4,0.96
+HR,2026-05-31,73,6,2,0.98
+Legal,2026-05-31,53,4,1,0.98
+Marketing,2026-05-31,89,14,8,0.87
+Customer Support,2026-05-31,114,21,13,0.82
+Information Technology,2026-03-31,123,16,10,0.92
+Operations,2026-03-31,162,29,20,0.81

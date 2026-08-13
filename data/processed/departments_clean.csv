@@ -1,0 +1,11 @@
+department_key,department_name,business_unit,region
+D001,Information Technology,Technology,DACH
+D002,Operations,Core Services,DACH
+D003,Sales,Commercial,DACH
+D004,Finance,Corporate,DACH
+D005,HR,Corporate,DACH
+D006,Legal,Governance,DACH
+D007,Marketing,Commercial,DACH
+D008,Customer Support,Core Services,DACH
+D009,Information Technology,Technology,DACH
+D010,Operations,Core Services,DACH

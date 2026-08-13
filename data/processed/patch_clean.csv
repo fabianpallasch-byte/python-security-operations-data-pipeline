@@ -1,0 +1,32 @@
+department,scan_date,assets_total,assets_compliant,compliance_rate
+Information Technology,2026-01-15,220,198,0.9
+Operations,2026-01-15,310,248,0.8
+Sales,2026-01-15,150,132,0.88
+Finance,2026-01-15,95,91,0.96
+HR,2026-01-15,60,57,0.95
+Legal,2026-01-15,40,39,0.98
+Marketing,2026-01-15,75,63,0.84
+Customer Support,2026-01-15,140,118,0.84
+Information Technology,2026-04-15,225,201,0.89
+Operations,2026-04-15,315,246,0.78
+Sales,2026-04-15,152,129,0.85
+Finance,2026-04-15,96,93,0.97
+HR,2026-04-15,61,58,0.95
+Legal,2026-04-15,41,40,0.98
+Marketing,2026-04-15,76,60,0.79
+Customer Support,2026-04-15,142,117,0.82
+Information Technology,2026-06-15,230,205,0.89
+Operations,2026-06-15,320,250,0.78
+Sales,2026-06-15,155,126,0.81
+Finance,2026-06-15,98,101,1.03
+HR,2026-06-15,62,59,
+Information Technology,2026-05-15,228,204,0.89
+Operations,2026-05-15,318,252,0.79
+Sales,2026-05-15,154,128,0.83
+Finance,2026-05-15,97,94,0.97
+HR,2026-05-15,61,57,0.93
+Legal,2026-05-15,41,39,0.95
+Marketing,2026-05-15,77,61,0.79
+Customer Support,2026-05-15,143,119,0.83
+Information Technology,2026-03-15,223,199,0.89
+Operations,2026-03-15,312,244,0.78
